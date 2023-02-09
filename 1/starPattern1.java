@@ -1,3 +1,5 @@
+//printing square from stars
+
 public class starPattern1{
     public static void main(String [] args){
     
