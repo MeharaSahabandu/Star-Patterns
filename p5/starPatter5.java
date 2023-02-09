@@ -9,6 +9,7 @@ public class starPatter5 {
         for(int i=0;i<5;i++){
 
             for (int j=2*4 ; j>0 ;j--) {
+                
                 System.out.print(" ");
 
                 if(i>=j){
