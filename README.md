@@ -1,2 +1,3 @@
 # Star-Patterns
---JAVA
+
+Here are some star printing patterns using java
